@@ -1,0 +1,365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Norfolk gentleman's last will and testament. [... c]ommitted the keeping of his children to his own brother, who dealt most wickedly with them, and how God plagued him for it. To the tune of Rogero.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04509</idno>
+            <idno type="STC">Wing N1237A</idno>
+            <idno type="STC">ESTC R181034</idno>
+            <idno type="EEBO-CITATION">47012555</idno>
+            <idno type="OCLC">ocm 47012555</idno>
+            <idno type="VID">174523</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04509)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174523)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2691:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Norfolk gentleman's last will and testament. [... c]ommitted the keeping of his children to his own brother, who dealt most wickedly with them, and how God plagued him for it. To the tune of Rogero.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 2 illustrations.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.)</note>
+                  <note>Imperfect: sheet cropped with loss of text.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174523:1"/>
+            <!-- PDF PAGE 5 -->
+            <head>The <hi>Norfolk</hi> Gentleman's laſt Will and Teſtament.</head>
+            <head type="sub">
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommitted the Keeping of his Children to his own Brother, who dealt moſt wickedly with them; and how God plagued him for it.</head>
+            <opener>To the tune of <hi>Rogero.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>NOw ponder well, you Parents dear,</l>
+               <l>theſe Words which I ſhall write,</l>
+               <l>
+                  <gap reason="illegible: missing" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dolful Story you ſhall hear,</l>
+               <l>
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n time brought forth to light:</l>
+               <l>Gentleman of good account,</l>
+               <l>in <hi>Norfolk</hi> dwelt of late,</l>
+               <l>whoſe Wealth and Riches did formount,</l>
+               <l>moſt Men of his Eſtate.</l>
+            </lg>
+            <lg>
+               <l>Sore ſick he was, and like to dye,</l>
+               <l>no help that he could have,</l>
+               <l>His Wife by him as ſick did lye,</l>
+               <l>and both poſſeſs one Grave:</l>
+               <l>No love between theſe two was loſt,</l>
+               <l>each was to other kind,</l>
+               <l>In love they liv'd, in love they dy'd,</l>
+               <l>and left two Babes behind.</l>
+            </lg>
+            <lg>
+               <l>The one a fine and pretty Boy,</l>
+               <l>not paſſing thrée Years old,</l>
+               <l>The other a Girl more young then he,</l>
+               <l>and made in Beauty's Mould:</l>
+               <l>
+                  <gap reason="illegible: missing" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Father left his little Son,</l>
+               <l>as plainly doth appear,</l>
+               <l>
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen he to perfect Age ſhould come,</l>
+               <l>thrée hundred Pounds a year.</l>
+            </lg>
+            <lg>
+               <l>And to his little Daughter <hi>Jane,</hi>
+               </l>
+               <l>five hundred Pound in Gold,</l>
+               <l>To be paid down on Marriage day,</l>
+               <l>which might not be controul'd</l>
+               <l>But if the Children chance to dye,</l>
+               <l>e'er they to Age ſhould come,</l>
+               <l>Their Vnckle ſhould poſſeſs their Wealth</l>
+               <l>for ſo the will did run.</l>
+            </lg>
+            <lg>
+               <l>Now Brother ſaid the dying Man</l>
+               <l>look to my Children dear,</l>
+               <l>Be good unto my Boy and Girl,</l>
+               <l>no Friends elſe I have here:</l>
+               <l>To God and you I do commend</l>
+               <l>my Children night and day,</l>
+               <l>A little while be ſure we had:</l>
+               <l>within this World to ſtay.</l>
+            </lg>
+            <lg>
+               <l>You muſt be Father Mother both,</l>
+               <l>and Vnckle all in one,</l>
+               <l>God knows what will become of them,</l>
+               <l>when I am dead and gone,</l>
+               <l>With that beſpoke their Mother dear,</l>
+               <l>O Brother kind, quoth ſhe</l>
+               <l>You are the Man muſt, bring my Babes</l>
+               <l>to Wealth or Miſery.</l>
+            </lg>
+            <lg>
+               <l>If you do kéep <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem carefully,</l>
+               <l>then God will you reward,</l>
+               <l>If otherwiſe you ſeem to deal,</l>
+               <l>God will your Deeds regard,</l>
+               <l>With lips as cold as any ſtone</l>
+               <l>ſhe kiſſ the Children ſmall.</l>
+               <l>God bleſs you both my Children dear,</l>
+               <l>with that the tears did fall.</l>
+            </lg>
+            <lg>
+               <l>Theſe Spéeches then their Brother ſpoke,</l>
+               <l>to ſick Couple their,</l>
+               <l>The kéeping of your Children dear,</l>
+               <l>ſwéet Siſter, do not fear:</l>
+               <l>God never proſper Me nor Mine,</l>
+               <l>nor ought elſe that I have,</l>
+               <l>If I do wrong your Children dear,</l>
+               <l>when you are laid in Grave.</l>
+            </lg>
+            <lg>
+               <l>Their Parents béen dead and gone,</l>
+               <l>the Children home he takes,</l>
+               <l>And brings them home unto his Houſe,</l>
+               <l>and much of them he makes.</l>
+               <l>He had not kept theſe pretty Babes,</l>
+               <l>a Twelve-month and a Day,</l>
+               <l>But for their wealth he did deviſe</l>
+               <l>to make them both a way.</l>
+            </lg>
+            <lg>
+               <l>He bargined with two Ruffians rude,</l>
+               <l>which were of furious <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ood,</l>
+               <l>That they ſhould take the Children young</l>
+               <l>and ſlay them in a Wood:</l>
+               <l>And told his Wife, and all he had,</l>
+               <l>he did the Children ſend</l>
+               <l>To be brought up in f<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir <hi>London,</hi>
+               </l>
+               <l>with one that was his Friend,</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Away then went theſe prety Babes,</l>
+               <l>rejoyceing at that ride:</l>
+               <l>Rejoyceing with a merry mind,</l>
+               <l>they ſhould on Cock-horſe ride</l>
+               <l>They prate and prattle pleaſantly,</l>
+               <l>as they rode on the way,</l>
+               <l>To thoſe that ſhould their Butchers be,</l>
+               <l>and work their Lives decay.</l>
+            </lg>
+            <lg>
+               <l>So that the prety ſpéech they had,</l>
+               <l>made Murthers hearts relent,</l>
+               <l>And they that took the Déed to do,</l>
+               <l>full ſore they did repent:</l>
+               <l>Yet one of them more hard of heart,</l>
+               <l>did vow to do his Charge,</l>
+               <l>Becauſe the Wretch that hired him,</l>
+               <l>had paid him very large.</l>
+            </lg>
+            <lg>
+               <l>The other would not agrée thereto,</l>
+               <l>ſo here they fell at Strife;</l>
+               <l>With one another they did Fight,</l>
+               <l>about the Childrens Life:</l>
+               <l>And he that was of mildeſt mood,</l>
+               <l>did Slay the other their,</l>
+               <l>Within an unfrequented Wood,</l>
+               <l>where Babes did quake for fear.</l>
+            </lg>
+            <lg>
+               <l>He took the Children by the hand,</l>
+               <l>when tears ſtood in their eyes;</l>
+               <l>And bad them come and go with him,</l>
+               <l>and look they did not cry:</l>
+               <l>And two long Miles he led them thus,</l>
+               <l>while they for Bread complain,</l>
+               <l>Stay here, quoth he, i'll bring ye Bread,</l>
+               <l>when I do come again.</l>
+            </lg>
+            <lg>
+               <l>Theſe pretty Babes with hand in hand,</l>
+               <l>went wandering up and down,</l>
+               <l>But never more they ſaw the Man,</l>
+               <l>approaching from the Town:</l>
+               <l>Their pretty Lips with Black-berries,</l>
+               <l>were all beſmear'd and dy'd,</l>
+               <l>And w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they ſaw the darkſom Night,</l>
+               <l>they <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them down and cry'd.</l>
+            </lg>
+            <lg>
+               <l>Thus wandred theſe two pretty Babes,</l>
+               <l>till Death did end their Grief,</l>
+               <l>In one another Armes they dy'd,</l>
+               <l>as Babes wanting Relief:</l>
+               <l>No Burial theſe pretty Babes</l>
+               <l>of any Man receive,</l>
+               <l>Till <hi>Robin-red-breſt</hi> painfully,</l>
+               <l>did cover them with Leaves.</l>
+            </lg>
+            <lg>
+               <l>And now the heavy wrath of God,</l>
+               <l>upon their Vnckle fell,</l>
+               <l>Yea, fearfull Feinds did hunt his Houſe,</l>
+               <l>His Conſcience fellt a Hell:</l>
+               <l>His Barns were fir'd, his Goods conſum'd,</l>
+               <l>his Lands were barren made,</l>
+               <l>His Cattel dy'd within the Field,</l>
+               <l>and nothing with him ſtaid,</l>
+            </lg>
+            <lg>
+               <l>And in the Voyage of <hi>Portugal,</hi>
+               </l>
+               <l>two of his Sons did dye;</l>
+               <l>And to conclude, himſelf was brought</l>
+               <l>unto much Miſery:</l>
+               <l>He pawn'd and Morgag'd all his Land,</l>
+               <l>e'er ſeven <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ears came about;</l>
+               <l>And now at length this wicked Act,</l>
+               <l>did by this means come out:</l>
+            </lg>
+            <lg>
+               <l>The Fellow that did take in hand,</l>
+               <l>theſe Children for to kill;</l>
+               <l>Was for a Robbery iudg'd to dye,</l>
+               <l>as was God's bleſſed Will.</l>
+               <l>Who did confeſs the very Truth,</l>
+               <l>the which is here expreſt,</l>
+               <l>Their Vnckl dy'd while he for Debt,</l>
+               <l>did long in Priſon reſt,</l>
+            </lg>
+            <lg>
+               <l>All you that be Executors made,</l>
+               <l>and Overſeeos eke,</l>
+               <l>Of Childeren that be Fatherleſs,</l>
+               <l>and Infants mild and meek,</l>
+               <l>Take you Example by this thing,</l>
+               <l>and yeild to each his Right,</l>
+               <l>Leaſt God with ſuch like Miſ<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry,</l>
+               <l>your wicked minds requite.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
